@@ -3,9 +3,8 @@ title: Why Greymouth?
 date: 2019-04-09
 thumb_img_path: "/images/20180524_114254.jpg"
 content_img_path: "/images/20180524_114254.jpg"
-excerpt: Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress requires
-  pushing vegetation aside.
+excerpt: The Coast provided the gold to pay for the development of NZ.  The Coast
+  provided the coal to power NZ.  The Coast provided the timber to build NZ.
 layout: post
 subtitle: 'Why here? '
 hide_header: false
