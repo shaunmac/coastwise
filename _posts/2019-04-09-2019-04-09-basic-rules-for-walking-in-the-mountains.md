@@ -1,37 +1,68 @@
 ---
-title: Basic Rules For Walking In The Mountains
-date: '2019-04-09'
-thumb_img_path: images/1.jpg
+title: Why Greymouth?
+date: 2019-04-09
+thumb_img_path: "/images/20180524_114254.jpg"
 content_img_path: images/1.jpg
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+excerpt: Hiking is sometimes referred to as such. This specifically refers to difficult
+  walking through dense forest, undergrowth, or bushes, where forward progress requires
+  pushing vegetation aside.
 layout: post
----
+subtitle: 'Why here? '
+hide_header: false
 
+---
 ![Hiking](/images/2.jpg)
 
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
+The Coast provided the gold to pay for the development of NZ.
 
-Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
+The Coast provided the coal to power NZ.
 
-## Long Distance Hiking
+The Coast provided the timber to build NZ.
 
-Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in England and Wales, the National Trail System in the USA and The Grande Randonnée (France), Grote Routepaden, or Lange-afstand-wandelpaden (Holland), Grande Rota (Portugal), Gran Recorrido (Spain) is a network of long-distance footpaths in Europe, mostly in France, Belgium, the Netherlands and Spain. There are extensive networks in other European countries of long distance trails, as well as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
+More established centres without such a boom/bust history take longer to react to socioeconomic shifts. The Coast moves very fast.
 
-In the late 20th-century there has been a proliferation of official and unofficial long distance routes, which mean that hikers now are more likely to refer to using a long distance way (Britain), trail (USA), The Grande Randonnée (France), etc., than setting out on a walking tour. Early examples of long distance paths, include the Appalachian Trail in the USA and the Pennine Way in Britain. Pilgrimage routes are now treated, by some walkers, as long distance routes, and the route taken by the British National Trail the North Downs Way closely follows that of the Pilgrims' Way to Canterbury. Hiking times can be estimated by Naismith's rule or Tobler's hiking function.
+We believe that in addition to leading the development of this country, and possibly the world, the Coast is now leading the next phase. And it’s currently not pretty.
 
-## Equipment
+Infrastructure breakdown, poverty, drugs, suicide and disempowerment indicate deeply rooted problems. None of which can be solved within the money market system. The results of that are only too easy to see.
 
-The equipment required for hiking depends on the length of the hike, but day hikers generally carry at least water, food, a map, and rain-proof gear. Hikers usually wear sturdy hiking boots for mountain walking and backpacking, as protection from the rough terrain, as well as providing increased stability. The Mountaineers club recommends a list of "Ten Essentials" equipment for hiking, including a compass, sunglasses, sunscreen, a flashlight, a first aid kit, a fire starter, and a knife. Other groups recommend items such as hat, gloves, insect repellent, and an emergency blanket. A GPS navigation device can also be helpful and route cards may be used as a guide.
+Fortunately, the Coast, and Grey District in particular possess all the right attributes for the alternative option. And it is an option. We can choose whatever we want.
 
-> Returning home is the most difficult part of long-distance hiking; You have grown outside the puzzle and your piece no longer fits. ― Cindy Ross
+We all want the same thing. Security, wellbeing, justice, equality, prosperity, sustainability etc. Nobody actually wants to destroy everything. The competitive money system ensures that we are all forced to fight, against our will and nature, to survive. And even that is getting constantly harder.
 
-Proponents of ultralight backpacking argue that long lists of required items for multi-day hikes increases pack weight, and hence fatigue and the chance of injury. Instead, they recommend reducing pack weight, in order to make hiking long distances easier. Even the use of hiking boots on long-distances hikes is controversial among ultralight hikers, because of their weight.
+Human progress has provided us with the knowledge, the tools, the resources and the energy to provide a fair and fulfilling life for all. Freed entirely from debt, servitude, exploitation, stress, poverty and drudgery.
 
-## Environmental Impact
+The Coast’s unique situation, abundant resources, resourceful, connected, innovative and educated people, remote location and leading position in the socioeconomic evolution, physically detached from, and yet closely emotionally connected to possibly the world’s most advanced country, provides us with an utterly unprecedented opportunity. 
 
-Natural environments are often fragile, and may be accidentally damaged, especially when a large number of hikers are involved. For example, years of gathering wood can strip an alpine area of valuable nutrients. and some species, such as martens or bighorn sheep, are very sensitive to the presence of humans, especially around mating season. Generally, protected areas such as parks have regulations in place to protect the environment, so as to minimize such impact. Such regulations include banning wood fires, restricting camping to established camp sites, disposing or packing out faecal matter, and imposing a quota on the number of hikers. Many hikers espouse the philosophy of Leave No Trace, following strict practices on dealing with food waste, food packaging, and other impact on the environment.
+The monetary system requires either wealthy people, to consume and feed growth, or natural resources to extract and exploit. As the Coast rapidly runs out of both, we can see an entire region being literally excluded from the rest of the country, the world in fact.
 
-Human waste is often a major source of environmental impact from hiking, and can contaminate the watershed and make other hikers ill. 'Catholes' dug 10 to 25 cm (4 to 10 inches) deep, depending on local soil composition and covered after use, at least 60 m (200 feet) away from water sources and trails, are recommended to reduce the risk of bacterial contamination. [Source](https://en.wikipedia.org/wiki/Hiking)
+The question becomes, what is the purpose of organised human life ?
+
+Is it to service an outdated, redundant and arbitrary ‘economic’ system ?
+
+Or is it to take care of humankind and the planet ?
+
+Because it is becoming increasingly obvious to those who care to look, that we are going to have to choose one or the other. And soon.
+
+The combination of science, global understanding, sociology, psychology, technology and mechanisation provide us with an unprecedented opportunity to finally become what we know we are. Civilised human beings.
+
+## **Resilience**
+
+We are rapidly becoming less resilient.
+
+Our infrastructure is getting worse.
+
+Our society is becoming more fragmented and stressed.
+
+Our food is increasingly expensive and lacking in nutrition and taste.
+
+Our health is suffering.
+
+Our mental wellbeing is precarious.
+
+Our capacity to function effectively after a major natural disaster is questionable.
+
+## **Timeline & Implementation**
+
+All changes start somewhere. Already the majority of the population of NZ is aware that something just isn’t right. Once the Win-Win nature of Resource Based Economics is widely recognised there will be no stopping it’s implementation. There are just too many benefits for all to ignore for much longer. Especially when considered against the Lose-Lose consequences of not adopting it.
+
+In the short term, as an obvious and much needed first step, Greymouth now has the capacity and opportunity to grow and distribute organic fruit and vegetables to the whole Coast region. Totally free, and delivered daily throughout. We already have free libraries, firefighting, ambulance, healthcare, welfare, pensions, water, air, parks, rivers and so on. There is absolutely no good reason that this trend cannot be continued and accelerated. Until everything is free. Provided by willing, fulfilled, supported volunteers, who, like us all, intrinsically yearn to share their skills and energies with a civilised, caring, responsible society.
