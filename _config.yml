@@ -7,7 +7,7 @@ header:
   title: Coastwise.nz
   tagline: A clear vision for the futrue
   logo_img: "/images/coastwise.png"
-  bg_img: images/header-bg.jpg
+  bg_img: "/images/Greymouth.jpg"
   has_nav: true
   has_social: true
 footer:
