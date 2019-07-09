@@ -43,9 +43,9 @@ fields:
   config:
     required: true
 pages:
+- _posts/2018-01-23-2018-01-23-moving-to-new-york.md
 - _posts/2019-04-09-2019-04-09-basic-rules-for-walking-in-the-mountains.md
 - _posts/2019-03-24-2019-03-24-nature.md
-- _posts/2018-01-23-2018-01-23-moving-to-new-york.md
 - _posts/2018-01-15-2018-01-15-photography.md
 - _posts/2018-01-11-2018-01-11-fox-village-in-japan.md
 - _posts/2018-01-09-2018-01-07-fragments-of-iceland.md
