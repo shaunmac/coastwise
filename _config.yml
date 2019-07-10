@@ -2,7 +2,7 @@
 title: Coast wise
 baseurl: "/"
 permalink: "/:title/"
-palette: yellow
+palette: blue
 header:
   title: Coastwise.nz
   tagline: A clear vision for the futrue
@@ -13,6 +13,7 @@ header:
 footer:
   content: "&copy; Stackbit-Fjord. All rights reserved."
   links:
+  - new_window: true
   - text: Made with Stackbit
     url: https://www.stackbit.com
     new_window: true
