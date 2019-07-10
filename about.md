@@ -9,7 +9,7 @@ menu:
     weight: 2
 
 ---
-**Richard** is a pilot, engineer, mechanic and farmer with an organic family farm in the Buller Valley.
+**Richard** is a pilot, engineer, mechanic, sailer and farmer with an organic family farm in the Buller Valley.
 
 He is dedicated to justice, equality, sustainability and the realisation of true human potential.
 
