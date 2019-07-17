@@ -1,17 +1,15 @@
 ---
 title: Why Greymouth?
-date: 2019-04-09
+date: 2019-07-09 00:00:00 +1200
 thumb_img_path: "/images/20180524_114254.jpg"
-content_img_path: "/images/20180524_114254.jpg"
+content_img_path: "/images/Trifold_Outside_03.jpg"
 excerpt: The Coast provided the gold to pay for the development of NZ.  The Coast
   provided the coal to power NZ.  The Coast provided the timber to build NZ.
 layout: post
-subtitle: 'Why here? '
+subtitle: 'Why Greymouth? '
 hide_header: false
 
 ---
-![Hiking](/images/2.jpg)
-
 The Coast provided the gold to pay for the development of NZ.
 
 The Coast provided the coal to power NZ.
@@ -30,7 +28,7 @@ We all want the same thing. Security, wellbeing, justice, equality, prosperity, 
 
 Human progress has provided us with the knowledge, the tools, the resources and the energy to provide a fair and fulfilling life for all. Freed entirely from debt, servitude, exploitation, stress, poverty and drudgery.
 
-The Coast’s unique situation, abundant resources, resourceful, connected, innovative and educated people, remote location and leading position in the socioeconomic evolution, physically detached from, and yet closely emotionally connected to possibly the world’s most advanced country, provides us with an utterly unprecedented opportunity. 
+The Coast’s unique situation, abundant resources, resourceful, connected, innovative and educated people, remote location and leading position in the socioeconomic evolution, physically detached from, and yet closely emotionally connected to possibly the world’s most advanced country, provides us with an utterly unprecedented opportunity.
 
 The monetary system requires either wealthy people, to consume and feed growth, or natural resources to extract and exploit. As the Coast rapidly runs out of both, we can see an entire region being literally excluded from the rest of the country, the world in fact.
 
