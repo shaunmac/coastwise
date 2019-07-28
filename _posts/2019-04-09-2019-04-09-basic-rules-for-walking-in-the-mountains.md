@@ -1,7 +1,7 @@
 ---
 title: Why Greymouth?
 date: 2019-07-09 00:00:00 +1200
-thumb_img_path: "/images/20180524_114254.jpg"
+thumb_img_path: "/images/20190724_085333.jpg"
 content_img_path: "/images/Trifold_Outside_03.jpg"
 excerpt: The Coast provided the gold to pay for the development of NZ.  The Coast
   provided the coal to power NZ.  The Coast provided the timber to build NZ.
@@ -62,4 +62,4 @@ Our capacity to function effectively after a major natural disaster is questiona
 
 All changes start somewhere. Of course we can't rush things, the transition will take a little time. But change is very rapid today. Already the majority of the population of NZ is aware that something just isn’t right. Once the Win-Win nature of Resource Based Economics is widely recognised there will be no stopping it’s implementation. There are just too many benefits for all to ignore for much longer. Especially when considered against the Lose-Lose consequences of not adopting it.
 
-In the short term, as an obvious and much needed first step, Greymouth now has the capacity and opportunity to grow and distribute organic fruit and vegetables to the whole Coast region. Totally free, and delivered daily throughout.  Tai Poutini Polytech can lead and structure the project. Organic, industrial scale food production. We already have free libraries, firefighting, ambulance, healthcare, welfare, pensions, water, air, parks, rivers and so on. There is absolutely no good reason that this trend cannot be continued and accelerated. Until everything is free. Provided by willing, fulfilled, supported volunteers, who, like us all, intrinsically yearn to share their skills and energies with a civilised, caring, responsible society.
+In the short term, as an obvious and much needed first step, Greymouth now has the capacity and opportunity to grow and distribute organic fruit and vegetables to the whole Coast region. Totally free, and delivered daily throughout.  Tai Poutini Polytech can lead and structure the project. Organic, industrial scale food production. Utilising the latest knowledge, respecting the indigenous wisdom of our predecessors. We already have free libraries, firefighting, ambulance, healthcare, welfare, pensions, water, air, parks, rivers and so on. There is absolutely no good reason that this trend cannot be continued and accelerated. Until everything is free. Provided by willing, fulfilled, supported volunteers, who, like us all, intrinsically yearn to share their skills and energies with a civilised, caring, responsible society.
