@@ -44,9 +44,11 @@ The combination of science, global understanding, sociology, psychology, technol
 
 ## **Resilience**
 
+We ignore the wisdom of history at our peril.
+
 We are rapidly becoming less resilient.
 
-Our infrastructure is getting worse.
+Our infrastructure is ageing.
 
 Our society is becoming more fragmented and stressed.
 
