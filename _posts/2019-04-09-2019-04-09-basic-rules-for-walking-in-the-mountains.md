@@ -1,12 +1,12 @@
 ---
 title: Why Greymouth?
 date: 2019-07-09 00:00:00 +1200
-thumb_img_path: "/images/20190724_085333.jpg"
+thumb_img_path: "/images/20190723_111837.jpg"
 content_img_path: "/images/Trifold_Outside_03.jpg"
 excerpt: The Coast provided the gold to pay for the development of NZ.  The Coast
   provided the coal to power NZ.  The Coast provided the timber to build NZ.
 layout: post
-subtitle: 'Why Greymouth? '
+subtitle: This might just be the world's leading town ...
 hide_header: false
 
 ---
