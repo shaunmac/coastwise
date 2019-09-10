@@ -17,9 +17,11 @@ After flying tourists around Queenstown for a year Richard and his family moved 
 
 He is dedicated to justice, equality, sustainability and the realisation of true human potential.
 
-A Nelson Mayoral candidate in 2013 and 2016, Richard is also the founder and leader of the New Zealand Money Free Party, which contested both the 2014 and 2017 general elections. 
+A Nelson Mayoral candidate in 2013 and 2016, Richard is also the founder and leader of the New Zealand Money Free Party, which contested both the 2014 and 2017 general elections.
 
 The New Zealand Institute of Resource Based Economics is a leading think-tank and research organisation examining alternative economic systems. Richard is Director and founder.
+
+This website is authorised by Richard Osmaston, 119A Tainui St, Greymouth.
 
 More info here soon..
 
