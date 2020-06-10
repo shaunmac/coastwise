@@ -5,7 +5,7 @@ permalink: "/:title/"
 palette: blue
 header:
   title: Coastwise.nz
-  tagline: A clear vision for the futrue
+  tagline: A future that actually make sense
   logo_img: "/images/coastwise.png"
   bg_img: "/images/Greymouth.jpg"
   has_nav: true
