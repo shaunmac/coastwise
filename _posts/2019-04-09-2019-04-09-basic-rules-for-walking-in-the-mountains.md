@@ -1,6 +1,6 @@
 ---
 title: Why West Coast/Tasman?
-date: 2019-07-08T12:00:00.000+00:00
+date: 2020-07-10 00:00:00 +1200
 thumb_img_path: "/images/20190723_111837.jpg"
 content_img_path: "/images/Trifold_Outside_03.jpg"
 excerpt: The Coast provided the gold to pay for the development of NZ.  The Coast
