@@ -6,7 +6,7 @@ content_img_path: "/images/Trifold_Outside_03.jpg"
 excerpt: The Coast provided the gold to pay for the development of NZ.  The Coast
   provided the coal to power NZ.  The Coast provided the timber to build NZ.
 layout: post
-subtitle: This might just be the world's leading town ...
+subtitle: Greymouth might just be the world's leading town ...
 hide_header: false
 
 ---
@@ -28,7 +28,7 @@ We all want the same thing. Security, wellbeing, justice, equality, prosperity, 
 
 Human progress has provided us with the knowledge, the tools, the resources and the energy to provide a fair and fulfilling life for all. Freed entirely from debt, servitude, exploitation, stress, poverty and drudgery.
 
-The Coast’s unique situation, abundant resources, resourceful, connected, innovative and educated people, remote location and leading position in the socioeconomic evolution, physically detached from, and yet closely emotionally connected to possibly the world’s most advanced country, provides us with an utterly unprecedented opportunity.
+The Coast’s unique situation, abundant resources, resourceful, connected, innovative and educated people, remote location and leading position in the socioeconomic evolution, physically detached from, and yet closely emotionally connected to possibly the world’s most advanced country, provides us with an unprecedented opportunity.
 
 The monetary system requires either wealthy people, to consume and feed growth, or natural resources to extract and exploit. As the Coast rapidly runs out of both, we can see an entire region being literally excluded from the rest of the country, the world in fact.
 
@@ -66,4 +66,4 @@ All changes start somewhere. Of course we can't rush things, the transition will
 
 In the short term, as an obvious and much needed first example, Greymouth now has the capacity and opportunity to grow and distribute organic fruit and vegetables to the whole Coast region. Totally free, and delivered daily throughout.  Tai Poutini Polytech can lead and structure the project. Organic, industrial scale food production. Utilising the latest knowledge, respecting the indigenous wisdom of our predecessors. We already have free libraries, firefighting, ambulance, healthcare, welfare, pensions, water, air, parks, rivers and so on. There is absolutely no good reason that this trend cannot be continued and accelerated. Until everything is free. Provided by willing, fulfilled, supported volunteers, who, like us all, intrinsically yearn to share their skills and energies with a civilised, caring, responsible society.
 
-_Visit www.moneyfreeparty.org.nz for more information._
+**_Visit www.moneyfreeparty.org.nz for more information._**
