@@ -18,4 +18,4 @@ To expect to base the future of our society on the concept of enabling people to
 
    ![](/images/factory-image0.jpeg)
 
-**Visit www.moneyfreeparty.org.nz for more information**
+**Visit www.moneyfreeparty.org.nz for more information.**
