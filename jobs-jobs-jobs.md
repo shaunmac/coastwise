@@ -9,9 +9,9 @@ menu:
     title: The real future of work
 
 ---
-Creating jobs.
+## Creating jobs.
 
-This is probably the biggest and most serious misconception in the ambitions of all the conventional political parties. It's also one of the most embedded and widespread.
+#### This is probably the biggest and most serious misconception in the ambitions of all the conventional political parties. It's also one of the most embedded and widespread.
 
 To expect to base the future of our society on the concept of enabling people to access a life via a job is farcical. For the following reasons:
 
@@ -21,10 +21,10 @@ To expect to base the future of our society on the concept of enabling people to
 
    ![](/images/factory-image0.jpeg)
 
-Why are we stuck with the impression that we only deserve a life if we have performed some involuntary task prescribed by those above us in the food chain?
+#### Why are we stuck with the impression that we only deserve a life if we have performed some involuntary task prescribed by those above us in the food chain?
 
 ![](/images/depression-ap331124019_wide-05772a7afbd228a673401e9f5e616c74b8bc1d9a-s800-c85.jpg)
 
-Has the Covid 19 experience not exposed the insanity of needing a 'functioning economy' to allow humans to access the necessities of life?
+#### Has the Covid 19 experience not exposed the insanity of needing a 'functioning economy' to allow humans to access the necessities of life?
 
-**Visit www.moneyfreeparty.org.nz for more information.**
+### **Visit www.moneyfreeparty.org.nz for more information.**
