@@ -3,6 +3,10 @@ layout: page
 title: Jobs, jobs, jobs .....
 subtitle: Yeah...nah
 img_path: "/images/jacinda-ardern-22.jpeg"
+menu:
+  main:
+    weight: 4
+    title: The real future of work
 published: false
 
 ---
