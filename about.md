@@ -21,9 +21,9 @@ A Nelson Mayoral candidate in 2013 and 2016, and in Grey District in 2019, Richa
 
 The New Zealand Institute of Resource Based Economics is a leading think-tank and research organisation examining alternative economic systems. Richard is Director and founder.
 
-###### This website is authorised by Richard Osmaston, 8868 Wairau Valley Highway, St Arnaud, RD 2, Nelson.
+##### This website is authorised by Richard Osmaston, 8868 Wairau Valley Highway, St Arnaud, RD 2, Nelson.
 
-###### 
+##### 
 
 _Thank You for reading._
 
