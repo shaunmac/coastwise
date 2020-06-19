@@ -5,7 +5,7 @@ subtitle: Yeah...nah
 img_path: "/images/jacinda-ardern-22.jpeg"
 menu:
   main:
-    weight: 3
+    weight: 2
     title: The real future of work
 
 ---
