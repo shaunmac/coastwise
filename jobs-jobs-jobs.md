@@ -9,7 +9,7 @@ menu:
     title: The real future of work
 
 ---
-## Creating jobs!  
+## Creating jobs!
 
 #### Yeah..right.  This is probably the biggest and most serious misconception in the ambitions of all the conventional political parties today. It's also one of the most embedded and widespread.
 
@@ -28,3 +28,5 @@ menu:
 #### Has the Covid 19 experience not exposed the insanity of needing a 'functioning economy' to allow humans to access the necessities of life?
 
 ### **Visit www.moneyfreeparty.org.nz for more information.**
+
+[https://youtu.be/8O4WS-KsLYU](https://youtu.be/8O4WS-KsLYU "https://youtu.be/8O4WS-KsLYU")
