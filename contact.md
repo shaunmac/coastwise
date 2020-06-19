@@ -6,7 +6,7 @@ subtitle: We'd like to hear from you
 menu:
   main:
     title: Contact
-    weight: 3
+    weight: 2
 
 ---
 To get in touch please fill in the form below.
