@@ -3,10 +3,6 @@ title: About Richard
 subtitle: This is a very short page about me and my work
 img_path: "/images/20190603_135006.jpg"
 layout: page
-menu:
-  main:
-    title: About
-    weight: 2
 
 ---
 **Richard** is a pilot, engineer, mechanic, sailor, mountaineer and farmer with an organic farm in the Buller Valley. His daughter, a farrier, and son, a professional sailor manage the  family farm. His wife is a District Nurse.
