@@ -1,1 +1,5 @@
---- {}
+---
+main:
+- url: http://moneyfreeparty.org.nz
+  weight: 5
+  title: MFPNZ
