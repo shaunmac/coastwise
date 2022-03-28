@@ -25,6 +25,5 @@ fields:
   config:
     required: true
 pages:
-- "./jobs-jobs-jobs.....copy.md"
 - about.md
 - jobs-jobs-jobs.md
