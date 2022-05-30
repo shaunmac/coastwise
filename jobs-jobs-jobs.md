@@ -11,7 +11,7 @@ menu:
 ---
 ## Creating jobs!
 
-#### Yeah..right.  This is probably the biggest and most serious misconception in the ambitions of all the conventional political parties today. It's also one of the most embedded and widespread.
+#### Yeah..right.  This is probably the biggest and most serious misconception in the ambitions of all the conventional politicians today. It's also one of the most embedded and widespread.
 
 ##### To expect to base the future of our society on the concept of enabling people to access a life via a job is farcical. For the following reasons:
 
