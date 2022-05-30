@@ -13,7 +13,7 @@ menu:
 
 #### Yeah..right.  This is probably the biggest and most serious misconception in the ambitions of all the conventional politicians today. It's also one of the most embedded and widespread.
 
-##### To expect to succesfully base the future of our society on the concept of enabling people to access a life via a job is farcical. For the following reasons:
+##### To expect to successfully base the future of our society on the concept of enabling people to access a life via a job is farcical. For the following reasons:
 
 1. Advances in technology continue to reduce the amount of human labour required. This is a good thing. Surely we want less drudgery, not more. Let the machines do the work, freeing humans to...be human!
 2. Creating jobs reduces people's time, energy and resources available for self, family and community, whilst increasing consumption of precious resources for no good reason.
