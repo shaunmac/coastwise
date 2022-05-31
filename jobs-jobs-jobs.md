@@ -7,6 +7,7 @@ menu:
   main:
     weight: 2
     title: The real future of work
+published: false
 
 ---
 ## Creating jobs!
