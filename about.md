@@ -13,7 +13,7 @@ After flying tourists around Queenstown Richard and his family moved to the Top 
 
 He is dedicated to justice, equality, sustainability and the realisation of true human potential.
 
-A Nelson Mayoral candidate in 2013 and 2016, and in Grey District in 2019, Richard is also the founder and leader of the New Zealand Money Free Party, which contested the 2014, 2017 and 2020 general elections. October 2022 sees Marlborough as the next local government opportunity.
+A Nelson Mayoral candidate in 2013 and 2016, and in Grey District in 2019, Richard is also the founder and leader of the New Zealand Money Free Party, which contested the 2014, 2017 and 2020 general elections. October 2022 sees Marlborough, Nelson, Tasman, Buller, Grey and Westland Districts as the next local government opportunity.
 
 The New Zealand Institute of Resource Based Economics is a leading think-tank and research organisation examining alternative economic systems. Richard is Director and founder.
 
@@ -23,7 +23,7 @@ The New Zealand Institute of Resource Based Economics is a leading think-tank an
 
 _Thank You for reading._
 
-We have short introductory videos on our Youtube Channel at; 
+We have short introductory videos on our Youtube Channel at;
 
 Coastwise.nz
 
