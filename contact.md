@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
+img_path: "/images/mfp-image.jpeg"
 layout: contact
 subtitle: We'd like to hear from you
 menu:
